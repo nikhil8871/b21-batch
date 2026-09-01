@@ -1,2 +1,4 @@
 #!/bin/bash
-My name is Nikhil
+sudo apt update -y
+sudo apt install git -y
+#!/bin/bash
